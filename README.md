@@ -1,7 +1,7 @@
 The cluster_info application
 ============================
 
-![Cluster Info OpenRiak Status](https://github.com/OpenRiak/cluster_info/actions/workflows/erlang.yml/badge.svg?branch=openriak-3.2)
+![Cluster Info OpenRiak Status](https://github.com/OpenRiak/cluster_info/actions/workflows/erlang.yml/badge.svg?branch=openriak-3.4)
 
 The `cluster_info` application provides a flexible and easily-extendible
 way to dump the state of a cluster of Erlang nodes.
